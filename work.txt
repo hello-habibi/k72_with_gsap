@@ -1,0 +1,3 @@
+created the file and the folder structure . then created the pages folder and added the Home , Agence , and projects folder . then created component folder in the src then created separated folder for each page saperately . 
+2. added react router by npm i react-router-dom then <BrowserRouter> in the main and wrapped app.jsx. then addes the woutes in the app.jsx first <router > then route . 
+3. 
